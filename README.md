@@ -1,6 +1,6 @@
-# Portfolio Editor downloads
+# Carefolio downloads
 
-Windows installers and update information for Portfolio Editor.
+Windows installers and update information for Carefolio.
 
 Download from https://cksoite-coffee-portfolio.web.app/#work=portfolio-resume-editor or the latest release.
 
